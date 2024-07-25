@@ -1,8 +1,12 @@
 Hey there, I'm Sudeep Sharma! 👾
+
 About Me:
 Education: Proud alum of IIT Kharagpur, class of 2022! 🎓 I rocked a BTech + MTech dual degree in Mechanical Engineering, specializing in Manufacturing Science. (Yep, I'm a mechanical engineer who codes – talk about versatile! 🛠️💻)
+
 Passions: Games, games, and more games! 🎮 During college, I turned my dorm room into a game dev studio, cranking out games and launching them on the Play Store. 🚀
+
 Leadership: Co-founded the Computer Graphics Society at IIT Kharagpur. Basically, I was like the Gandalf of game dev, guiding juniors through the magical world of game creation. ⚔️✨
+
 Experience:
 Internships: Dove headfirst into VR game development with Unity and crafted Android apps with Unity and Android Studio. I can code in my sleep now! 🛌💡
 Full Stack Engineer at Healthplix Technologies: Learned the ABCs (and XYZs) of software development and backend system design. If code were a puzzle, I’d be the master solver! 🧩🧑‍💻
