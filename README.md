@@ -13,7 +13,7 @@ Internships: Dove headfirst into VR game development with Unity and crafted Andr
 
 Full Stack Engineer at Healthplix Technologies: Learned the ABCs (and XYZs) of software development and backend system design. If code were a puzzle, I’d be the master solver! 🧩🧑‍💻
 
-Founder: Launched Resolv AI, your friendly neighborhood AI tool for developers. It's like having a tech wizard in your pocket, ready to solve web development woes in a snap! 🧙‍♂️✨ I handle all the tech magic, from AI infrastructure to backend wizardry and model fine-tuning.
+Founder: Launched Resolv AI, your friendly neighborhood AI tool for developers. It's like having a tech wizard in your pocket, ready to solve web development woes in a snap! 🧙‍♂️✨ I handle all the tech magic, from AI infrastructure to backend wizardry and model fine-tuning. (https://www.resolvai.tech)
 
 What I Do:
 Tech Savvy: I can pick up new technologies faster than you can say "Hello, World!" 💨
